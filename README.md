@@ -17,7 +17,7 @@
 
 ### Technical Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,ruby,c,cpp,bash,mongodb,linux,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,python,js,ruby,c,cpp,bash,mongodb,linux,ubuntu&theme=dark" />
 </div>
 
 ## Featured Projects
