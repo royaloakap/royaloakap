@@ -43,7 +43,6 @@
   <a href="https://github.com/royaloakap/Stresser-Telegram">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Stresser-Telegram&theme=dark&hide_border=true&show_owner=true" />
   </a>
-</div>
   <a href="https://github.com/royaloakap/Py-OBF">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Py-OBF&theme=dark&hide_border=true" />
   </a>
