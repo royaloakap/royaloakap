@@ -54,7 +54,7 @@
   </a>
 </div>
 
-### JavaScript/TypeScript Projects
+### JavaScript/ Projects
 <div align="center">
   <a href="https://github.com/royaloakap/DDOS-WORLD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=dark&hide_border=true" />
