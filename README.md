@@ -91,11 +91,12 @@
   <a href="https://t.me/royaloakap">
     <img src="https://img.shields.io/badge/Telegram-royaloakap-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/royalC2">
+  <a href="https://discord.gg/Gq6SVG4mp8">
     <img src="https://img.shields.io/badge/Discord-royalC2-000000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
-
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=royaloakap&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <sub>© 2024 Royaloak. All rights reserved.</sub>
 </div>
