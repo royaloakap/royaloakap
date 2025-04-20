@@ -15,14 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          LANG: "go,python,javascript,ruby,c,cpp,bash"
-          FORCE_LANG: "true"
-          FORCE_GO: "true"
-          BG_COLOR: "#000000"
-          TEXT_COLOR: "#FFFFFF"
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          lang: "go,python,javascript,ruby,c,cpp,bash"
+          force-lang: "true"
+          force-go: "true"
+          bg-color: "000000"
+          text-color: "FFFFFF"
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions[bot]"
