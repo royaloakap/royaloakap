@@ -21,8 +21,8 @@ jobs:
           LANG: "go,python,javascript,ruby,c,cpp,bash"
           FORCE_LANG: "true"
           FORCE_GO: "true"
-          BG_COLOR: "000000"
-          TEXT_COLOR: "FFFFFF"
+          BG_COLOR: "#000000"
+          TEXT_COLOR: "#FFFFFF"
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions[bot]"
