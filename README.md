@@ -1,5 +1,7 @@
 # Royaloak
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=100&lines=Network+Security+Engineer;Full+Stack+Developer;Protocol+Architecture+Expert" alt="Typing SVG" />
 </div>
