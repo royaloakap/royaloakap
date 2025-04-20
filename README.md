@@ -24,40 +24,40 @@
 
 ### Go Projects
 <div align="center">
-  <a href="https://github.com/royaloakap/repo1">
+  <a href="[https://github.com/royaloakap/repo1](https://github.com/royaloakap/DDOS-WORLD/tree/main/CNC/RoyalCNCV0)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo1&theme=dark&hide_border=true" />
   </a>
-  <a href="https://github.com/royaloakap/repo2">
+  <a href="https://github.com/royaloakap/DDOS-WORLD/tree/main/BOT/TELEGRAM/AUTOBUY">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo2&theme=dark&hide_border=true" />
   </a>
 </div>
 
 ### Python Projects
 <div align="center">
-  <a href="https://github.com/royaloakap/repo3">
+  <a href="https://github.com/royaloakap/Stresser-Telegram">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo3&theme=dark&hide_border=true" />
   </a>
-  <a href="https://github.com/royaloakap/repo4">
+  <a href="https://github.com/royaloakap/CFX-RESOLVER">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo4&theme=dark&hide_border=true" />
   </a>
 </div>
 
 ### JavaScript/TypeScript Projects
 <div align="center">
-  <a href="https://github.com/royaloakap/repo5">
+  <a href="https://github.com/royaloakap/DDOS-WORLD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo5&theme=dark&hide_border=true" />
   </a>
-  <a href="https://github.com/royaloakap/repo6">
+  <a href="https://github.com/royaloakap/Crow-Bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo6&theme=dark&hide_border=true" />
   </a>
 </div>
 
 ### C/C++ Projects
 <div align="center">
-  <a href="https://github.com/royaloakap/repo7">
+  <a href="https://github.com/royaloakap/Payload-C">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo7&theme=dark&hide_border=true" />
   </a>
-  <a href="https://github.com/royaloakap/repo8">
+  <a href="https://github.com/royaloakap/ddos-world">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo8&theme=dark&hide_border=true" />
   </a>
 </div>
