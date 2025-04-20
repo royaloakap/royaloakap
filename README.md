@@ -24,11 +24,17 @@
 
 ### Go Projects
 <div align="center">
-  <a href="https://github.com/royaloakap/DDOS-WORLD/tree/main/CNC/RoyalCNCV0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=dark&hide_border=true" />
+  <a href="https://github.com/royaloakap/Royal-Gradient">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-Gradient&theme=dark&hide_border=true" />
   </a>
-  <a href="https://github.com/royaloakap/DDOS-WORLD/tree/main/BOT/TELEGRAM/AUTOBUY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=dark&hide_border=true" />
+  <a href="https://github.com/royaloakap/RoyalProxyV0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalProxyV0&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/royaloakap/RoyalCNC-V0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalCNC-V0&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/royaloakap/Funnel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Funnel&theme=dark&hide_border=true" />
   </a>
 </div>
 
@@ -36,6 +42,12 @@
 <div align="center">
   <a href="https://github.com/royaloakap/Stresser-Telegram">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Stresser-Telegram&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/royaloakap/Py-OBF">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Py-OBF&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/royaloakap/Python-Obfuscator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Python-Obfuscator&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/royaloakap/CFX-RESOLVER">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=CFX-RESOLVER&theme=dark&hide_border=true" />
