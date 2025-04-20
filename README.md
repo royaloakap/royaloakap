@@ -3,7 +3,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Network+Security+Engineer;Full+Stack+Developer;Protocol+Architecture+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Network+Security+Engineer;Protocol+Architecture+Expert" alt="Typing SVG" />
 </div>
 
 ## Professional Overview
@@ -21,41 +21,56 @@
 
 ### Technical Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,ruby,mongodb,linux,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,python,js,ruby,c,cpp,bash,mongodb,linux,docker,git&theme=dark" />
 </div>
 
-## Professional Experience
+## Featured Projects
 
-### Network & Security
-- Protocol Analysis & Implementation (Layer 4 & 7)
-- Network Infrastructure Design
-- Security Architecture
-- Educational Technology Development
+### Go Projects
+<div align="center">
+  <a href="https://github.com/royaloakap/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo1&theme=radical" />
+  </a>
+  <a href="https://github.com/royaloakap/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo2&theme=radical" />
+  </a>
+</div>
 
-### Development
-- Full Stack Development (5+ years)
-- Binary Development
-- System Architecture
-- Infrastructure Management
+### Python Projects
+<div align="center">
+  <a href="https://github.com/royaloakap/repo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo3&theme=radical" />
+  </a>
+  <a href="https://github.com/royaloakap/repo4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo4&theme=radical" />
+  </a>
+</div>
 
-## Current Projects
+### JavaScript/TypeScript Projects
+<div align="center">
+  <a href="https://github.com/royaloakap/repo5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo5&theme=radical" />
+  </a>
+  <a href="https://github.com/royaloakap/repo6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo6&theme=radical" />
+  </a>
+</div>
 
-### Infrastructure & Security
-- Educational Technology Platforms
-- Network Protocol Analysis Tools
-- System Architecture Solutions
-- Infrastructure Management Systems
-
-### Development Focus
-- Protocol Implementation
-- System Architecture
-- Educational Tools
-- Infrastructure Solutions
+### C/C++ Projects
+<div align="center">
+  <a href="https://github.com/royaloakap/repo7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo7&theme=radical" />
+  </a>
+  <a href="https://github.com/royaloakap/repo8">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo8&theme=radical" />
+  </a>
+</div>
 
 ## Technical Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=royaloakap&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaloakap&layout=compact&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=royaloakap&theme=radical&hide_border=true" />
 </div>
 
