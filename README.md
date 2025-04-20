@@ -3,7 +3,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6B8E23&center=true&vCenter=true&random=false&width=600&height=100&lines=Network+Security+Engineer;Full+Stack+Developer;Protocol+Architecture+Expert" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=royaloakap&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=FFFFFF&count_private=true" />
 </div>
 
 ## Professional Overview
