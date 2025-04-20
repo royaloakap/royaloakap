@@ -1,7 +1,9 @@
+# Royaloak
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Network+Security+Engineer;Protocol+Architecture+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Network+Security+Engineer;Full+Stack+Developer;Protocol+Architecture+Expert" alt="Typing SVG" />
 </div>
 
 ## Professional Overview
@@ -80,10 +82,6 @@
   </a>
   <a href="https://t.me/royaloakap">
     <img src="https://img.shields.io/badge/Telegram-royaloakap-00FF00?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/royalC2">
-    <img src="https://img.shields.io/badge/Discord-royalC2-00FF00?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </div>
 
 <div align="center">
