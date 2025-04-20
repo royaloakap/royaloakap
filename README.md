@@ -1,10 +1,9 @@
 # Royaloak
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6B8E23&center=true&vCenter=true&random=false&width=600&height=100&lines=Network+Security+Engineer;Full+Stack+Developer;Protocol+Architecture+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=100&lines=Network+Security+Engineer;Full+Stack+Developer;Protocol+Architecture+Expert" alt="Typing SVG" />
 </div>
+
 ## Professional Overview
 
 ### Core Competencies
@@ -24,40 +23,40 @@
 ### Go Projects
 <div align="center">
   <a href="https://github.com/royaloakap/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo1&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo1&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/royaloakap/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo2&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo2&theme=dark&hide_border=true" />
   </a>
 </div>
 
 ### Python Projects
 <div align="center">
   <a href="https://github.com/royaloakap/repo3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo3&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo3&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/royaloakap/repo4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo4&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo4&theme=dark&hide_border=true" />
   </a>
 </div>
 
 ### JavaScript/TypeScript Projects
 <div align="center">
   <a href="https://github.com/royaloakap/repo5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo5&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo5&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/royaloakap/repo6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo6&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo6&theme=dark&hide_border=true" />
   </a>
 </div>
 
 ### C/C++ Projects
 <div align="center">
   <a href="https://github.com/royaloakap/repo7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo7&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo7&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/royaloakap/repo8">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo8&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=repo8&theme=dark&hide_border=true" />
   </a>
 </div>
 
@@ -73,13 +72,13 @@
 
 <div align="center">
   <a href="https://royalprojets.com">
-    <img src="https://img.shields.io/badge/Website-royalprojets.com-6B8E23?style=for-the-badge&logo=globe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-royalprojets.com-000000?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
   <a href="https://t.me/royaloakap">
-    <img src="https://img.shields.io/badge/Telegram-royaloakap-6B8E23?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-royaloakap-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://discord.gg/royalC2">
-    <img src="https://img.shields.io/badge/Discord-royalC2-6B8E23?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-royalC2-000000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
