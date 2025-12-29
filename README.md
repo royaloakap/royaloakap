@@ -10,6 +10,7 @@
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Network+Security+Engineer;Full+Stack+Developer;Protocol+Architecture+Expert"
+    alt="Typing intro"
   />
 </div>
 
@@ -34,13 +35,16 @@
 ## Featured Projects
 
 <p align="center">
-  <object
-    data="https://raw.githubusercontent.com/royaloakap/royaloakap/main/profile-3d-contrib/featured.svg"
-    type="image/svg+xml"
-    width="900">
-  </object>
+  <a href="https://github.com/royaloakap/Royal-Gradient">
+    <img
+      src="https://raw.githubusercontent.com/royaloakap/royaloakap/main/profile-3d-contrib/featured.svg"
+      alt="Featured Projects"
+      width="900"
+    />
+  </a>
 </p>
 
+> 🔗 Cliquez sur l’image pour accéder aux projets GitHub
 
 ---
 
