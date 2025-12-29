@@ -34,11 +34,13 @@
 ## Featured Projects
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/royaloakap/royaloakap/main/profile-3d-contrib/featured.svg"
-    alt="Featured projects"
-  />
+  <object
+    data="https://raw.githubusercontent.com/royaloakap/royaloakap/main/profile-3d-contrib/featured.svg"
+    type="image/svg+xml"
+    width="900">
+  </object>
 </p>
+
 
 ---
 
