@@ -1,0 +1,33 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .card { fill: #161b22; stroke: #30363d; stroke-width: 1.2; rx: 14; }
+    .title { fill: #ffffff; font-size: 22px; font-weight: 700; font-family: Arial, Helvetica, sans-serif; }
+    .subtitle { fill: #8b949e; font-size: 14px; font-family: Arial, Helvetica, sans-serif; }
+    .repo { fill: #c9d1d9; font-size: 16px; font-weight: 600; font-family: Arial, Helvetica, sans-serif; }
+    .desc { fill: #8b949e; font-size: 13px; font-family: Arial, Helvetica, sans-serif; }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="900" height="420" rx="18"/>
+
+  <text x="450" y="42" text-anchor="middle" class="title">Featured Projects</text>
+  <text x="450" y="66" text-anchor="middle" class="subtitle">
+    Selected repositories overview
+  </text>
+
+  <!-- Go -->
+  <rect class="card" x="40" y="100" width="380" height="120"/>
+  <text x="60" y="130" class="repo">Royal-Gradient (Go)</text>
+  <text x="60" y="155" class="desc">High-performance gradient &amp; networking utilities</text>
+  <text x="60" y="178" class="desc">github.com/royaloakap/Royal-Gradient</text>
+
+  <!-- Python -->
+  <rect class="card" x="480" y="100" width="380" height="120"/>
+  <text x="500" y="130" class="repo">Python-Obfuscator (Python)</text>
+  <text x="500" y="155" class="desc">Advanced Python code protection</text>
+  <text x="500" y="178" class="desc">github.com/royaloakap/Python-Obfuscator</text>
+
+  <!-- JS -->
+  <rect class="card" x="40" y="250" width="380" height="120"/>
+  <text x="60" y="280" class="repo">DDOS-WORLD (JavaScript)</text>
+  <text x="60" y="305" class="desc">Resea
