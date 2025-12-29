@@ -1,31 +1,80 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
   <style>
     .bg { fill: #0d1117; }
-    .card { fill: #161b22; stroke: #30363d; stroke-width: 1.2; }
-    .title { fill: #ffffff; font-size: 22px; font-weight: 700; font-family: Arial, Helvetica, sans-serif; }
-    .subtitle { fill: #8b949e; font-size: 14px; font-family: Arial, Helvetica, sans-serif; }
-    .repo { fill: #c9d1d9; font-size: 16px; font-weight: 600; font-family: Arial, Helvetica, sans-serif; }
-    .desc { fill: #8b949e; font-size: 13px; font-family: Arial, Helvetica, sans-serif; }
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1.2;
+      rx: 14;
+      transition: transform .25s ease, fill .25s ease;
+    }
+    .card:hover {
+      fill: #1f2630;
+      transform: translateY(-4px);
+    }
+    .title {
+      fill: #ffffff;
+      font-size: 22px;
+      font-weight: 700;
+      font-family: Arial, Helvetica, sans-serif;
+      opacity: 0;
+      animation: fadeIn 1s ease forwards;
+    }
+    .subtitle {
+      fill: #8b949e;
+      font-size: 14px;
+      font-family: Arial, Helvetica, sans-serif;
+      opacity: 0;
+      animation: fadeIn 1.4s ease forwards;
+    }
+    .repo {
+      fill: #c9d1d9;
+      font-size: 16px;
+      font-weight: 600;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .desc {
+      fill: #8b949e;
+      font-size: 13px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
   </style>
 
   <rect class="bg" x="0" y="0" width="900" height="420" rx="18"/>
 
   <text x="450" y="42" text-anchor="middle" class="title">Featured Projects</text>
-  <text x="450" y="66" text-anchor="middle" class="subtitle">Selected repositories overview</text>
+  <text x="450" y="66" text-anchor="middle" class="subtitle">
+    Selected repositories overview
+  </text>
 
-  <rect class="card" x="40" y="100" width="380" height="120"/>
-  <text x="60" y="130" class="repo">Royal-Gradient (Go)</text>
-  <text x="60" y="155" class="desc">High-performance gradient &amp; networking utilities</text>
+  <!-- GO -->
+  <a href="https://github.com/royaloakap/Royal-Gradient" target="_blank">
+    <rect class="card" x="40" y="100" width="380" height="120"/>
+    <text x="60" y="130" class="repo">Royal-Gradient (Go)</text>
+    <text x="60" y="155" class="desc">High-performance gradient &amp; networking utilities</text>
+  </a>
 
-  <rect class="card" x="480" y="100" width="380" height="120"/>
-  <text x="500" y="130" class="repo">Python-Obfuscator (Python)</text>
-  <text x="500" y="155" class="desc">Advanced Python code protection</text>
+  <!-- PYTHON -->
+  <a href="https://github.com/royaloakap/Python-Obfuscator" target="_blank">
+    <rect class="card" x="480" y="100" width="380" height="120"/>
+    <text x="500" y="130" class="repo">Python-Obfuscator (Python)</text>
+    <text x="500" y="155" class="desc">Advanced Python code protection</text>
+  </a>
 
-  <rect class="card" x="40" y="250" width="380" height="120"/>
-  <text x="60" y="280" class="repo">DDOS-WORLD (JavaScript)</text>
-  <text x="60" y="305" class="desc">Research-oriented network testing platform</text>
+  <!-- JS -->
+  <a href="https://github.com/royaloakap/DDOS-WORLD" target="_blank">
+    <rect class="card" x="40" y="250" width="380" height="120"/>
+    <text x="60" y="280" class="repo">DDOS-WORLD (JavaScript)</text>
+    <text x="60" y="305" class="desc">Research-oriented network testing platform</text>
+  </a>
 
-  <rect class="card" x="480" y="250" width="380" height="120"/>
-  <text x="500" y="280" class="repo">Payload-C (C / C++)</text>
-  <text x="500" y="305" class="desc">Low-level systems experimentation</text>
+  <!-- C / C++ -->
+  <a href="https://github.com/royaloakap/Payload-C" target="_blank">
+    <rect class="card" x="480" y="250" width="380" height="120"/>
+    <text x="500" y="280" class="repo">Payload-C (C / C++)</text>
+    <text x="500" y="305" class="desc">Low-level systems experimentation</text>
+  </a>
 </svg>
