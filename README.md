@@ -15,21 +15,6 @@
 
 ---
 
-## Professional Overview
-
-### Core Competencies
-- Network Security & Protocol Architecture  
-- Full Stack Development  
-- Infrastructure Design  
-- System Architecture  
-- Educational Technology Development  
-
-### Technical Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,ruby,c,cpp,bash,mongodb,linux,ubuntu&theme=dark" />
-</div>
-
----
 
 ## Featured Projects
 
