@@ -54,7 +54,7 @@
   </a>
 </div>
 
-### JavaScript/ Projects
+### JavaScript Projects
 <div align="center">
   <a href="https://github.com/royaloakap/DDOS-WORLD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=dark&hide_border=true" />
@@ -64,7 +64,7 @@
   </a>
 </div>
 
-### C/C++ Projects
+### C / C++ Projects
 <div align="center">
   <a href="https://github.com/royaloakap/Payload-C">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Payload-C&theme=dark&hide_border=true" />
@@ -79,7 +79,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=royaloakap&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaloakap&layout=compact&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royaloakap&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=royaloakap&theme=dark&hide_border=true" />
 </div>
 
 ## Professional Contact
@@ -95,6 +95,7 @@
     <img src="https://img.shields.io/badge/Discord-royalC2-000000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=royaloakap&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <br>
