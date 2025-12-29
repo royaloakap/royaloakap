@@ -1,6 +1,6 @@
 # Royaloak
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/royaloakap/royaloakap/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Network+Security+Engineer;Full+Stack+Developer;Protocol+Architecture+Expert" />
@@ -9,11 +9,11 @@
 ## Professional Overview
 
 ### Core Competencies
-- Network Security & Protocol Architecture
-- Full Stack Development
-- Infrastructure Design
-- System Architecture
-- Educational Technology Development
+- Network Security & Protocol Architecture  
+- Full Stack Development  
+- Infrastructure Design  
+- System Architecture  
+- Educational Technology Development  
 
 ### Technical Stack
 <div align="center">
