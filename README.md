@@ -20,65 +20,6 @@
   <img src="https://skillicons.dev/icons?i=go,python,js,ruby,c,cpp,bash,mongodb,linux,ubuntu&theme=dark" />
 </div>
 
-## Featured Projects
-
-### Go Projects
-<div align="center">
-  <a href="https://github.com/royaloakap/Royal-Gradient">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-Gradient&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/royaloakap/RoyalProxyV0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalProxyV0&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/royaloakap/RoyalCNC-V0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalCNC-V0&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/royaloakap/Funnel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Funnel&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-
-### Python Projects
-<div align="center">
-  <a href="https://github.com/royaloakap/Stresser-Telegram">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Stresser-Telegram&theme=github_dark&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/royaloakap/Py-OBF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Py-OBF&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/royaloakap/Python-Obfuscator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Python-Obfuscator&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/royaloakap/CFX-RESOLVER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=CFX-RESOLVER&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-
-### JavaScript Projects
-<div align="center">
-  <a href="https://github.com/royaloakap/DDOS-WORLD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/royaloakap/Crow-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Crow-Bot&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-
-### C / C++ Projects
-<div align="center">
-  <a href="https://github.com/royaloakap/Payload-C">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Payload-C&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/royaloakap/ddos-world">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=ddos-world&theme=github_dark&hide_border=true" />
-  </a>
-</div>
 
 ## Technical Statistics
 
