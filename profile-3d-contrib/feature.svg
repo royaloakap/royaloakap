@@ -18,7 +18,7 @@
   <!-- Go -->
   <rect class="card" x="40" y="100" width="380" height="120"/>
   <text x="60" y="130" class="repo">Royal-Gradient (Go)</text>
-  <text x="60" y="155" class="desc">High-performance gradient & networking utilities</text>
+  <text x="60" y="155" class="desc">High-performance gradient &amp; networking utilities</text>
   <text x="60" y="178" class="desc">github.com/royaloakap/Royal-Gradient</text>
 
   <!-- Python -->
@@ -30,13 +30,4 @@
   <!-- JS -->
   <rect class="card" x="40" y="250" width="380" height="120"/>
   <text x="60" y="280" class="repo">DDOS-WORLD (JavaScript)</text>
-  <text x="60" y="305" class="desc">Research-oriented network testing platform</text>
-  <text x="60" y="328" class="desc">github.com/royaloakap/DDOS-WORLD</text>
-
-  <!-- C/C++ -->
-  <rect class="card" x="480" y="250" width="380" height="120"/>
-  <text x="500" y="280" class="repo">Payload-C (C / C++)</text>
-  <text x="500" y="305" class="desc">Low-level systems experimentation</text>
-  <text x="500" y="328" class="desc">github.com/royaloakap/Payload-C</text>
-</svg>
-
+  <text x="60" y="305" class="desc">Resea
