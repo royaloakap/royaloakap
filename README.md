@@ -24,7 +24,7 @@
 ## Technical Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royaloakap&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=royaloakap&theme=github-dark&hide_border=true" />
 </div>
 
 ## Professional Contact
