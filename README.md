@@ -1,6 +1,6 @@
 # Royaloak
 
-<img src="https://raw.githubusercontent.com/royaloakap/royaloakap/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/royaloakap/royaloakap/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Network+Security+Engineer;Full+Stack+Developer;Protocol+Architecture+Expert" />
@@ -25,67 +25,67 @@
 ### Go Projects
 <div align="center">
   <a href="https://github.com/royaloakap/Royal-Gradient">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-Gradient&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-Gradient&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/royaloakap/RoyalProxyV0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalProxyV0&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalProxyV0&theme=dark&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/royaloakap/RoyalCNC-V0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalCNC-V0&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalCNC-V0&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/royaloakap/Funnel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Funnel&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Funnel&theme=dark&hide_border=true" />
   </a>
 </div>
 
 ### Python Projects
 <div align="center">
   <a href="https://github.com/royaloakap/Stresser-Telegram">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Stresser-Telegram&theme=github_dark&hide_border=true&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Stresser-Telegram&theme=dark&hide_border=true&show_owner=true" />
   </a>
   <a href="https://github.com/royaloakap/Py-OBF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Py-OBF&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Py-OBF&theme=dark&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/royaloakap/Python-Obfuscator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Python-Obfuscator&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Python-Obfuscator&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/royaloakap/CFX-RESOLVER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=CFX-RESOLVER&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=CFX-RESOLVER&theme=dark&hide_border=true" />
   </a>
 </div>
 
 ### JavaScript Projects
 <div align="center">
   <a href="https://github.com/royaloakap/DDOS-WORLD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/royaloakap/Crow-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Crow-Bot&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Crow-Bot&theme=dark&hide_border=true" />
   </a>
 </div>
 
 ### C / C++ Projects
 <div align="center">
   <a href="https://github.com/royaloakap/Payload-C">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Payload-C&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Payload-C&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/royaloakap/ddos-world">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=ddos-world&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=ddos-world&theme=dark&hide_border=true" />
   </a>
 </div>
 
 ## Technical Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royaloakap&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaloakap&layout=compact&theme=github_dark&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=royaloakap&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=royaloakap&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaloakap&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=royaloakap&theme=dark&hide_border=true" />
 </div>
 
 ## Professional Contact
