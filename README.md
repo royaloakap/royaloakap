@@ -98,5 +98,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=royaloakap&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <br>
-  <sub>© 2024 Royaloak. All rights reserved.</sub>
+  <sub>© 2022 ⇥ 2026 Royaloak. All rights reserved.</sub>
 </div>
