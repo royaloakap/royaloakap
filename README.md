@@ -27,10 +27,7 @@
 
 ### Technical Stack
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=go,python,js,ruby,c,cpp,bash,mongodb,linux,ubuntu&theme=dark"
-    alt="Tech stack"
-  />
+  <img src="https://skillicons.dev/icons?i=go,python,js,ruby,c,cpp,bash,mongodb,linux,ubuntu&theme=dark" />
 </div>
 
 ---
@@ -40,31 +37,10 @@
 ### 🐹 Go Projects
 <div align="center">
   <a href="https://github.com/royaloakap/Royal-Gradient">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-Gradient&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="Royal-Gradient"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-Gradient&theme=dark&hide_border=true&cache_seconds=21600" />
   </a>
   <a href="https://github.com/royaloakap/RoyalProxyV0">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalProxyV0&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="RoyalProxyV0"
-    />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/royaloakap/RoyalCNC-V0">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalCNC-V0&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="RoyalCNC-V0"
-    />
-  </a>
-  <a href="https://github.com/royaloakap/Funnel">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Funnel&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="Funnel"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=RoyalProxyV0&theme=dark&hide_border=true&cache_seconds=21600" />
   </a>
 </div>
 
@@ -72,32 +48,11 @@
 
 ### 🐍 Python Projects
 <div align="center">
-  <a href="https://github.com/royaloakap/Stresser-Telegram">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Stresser-Telegram&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="Stresser-Telegram"
-    />
-  </a>
   <a href="https://github.com/royaloakap/Py-OBF">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Py-OBF&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="Py-OBF"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Py-OBF&theme=dark&hide_border=true&cache_seconds=21600" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/royaloakap/Python-Obfuscator">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Python-Obfuscator&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="Python-Obfuscator"
-    />
-  </a>
-  <a href="https://github.com/royaloakap/CFX-RESOLVER">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=CFX-RESOLVER&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="CFX-RESOLVER"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Python-Obfuscator&theme=dark&hide_border=true&cache_seconds=21600" />
   </a>
 </div>
 
@@ -106,16 +61,10 @@
 ### 🌐 JavaScript Projects
 <div align="center">
   <a href="https://github.com/royaloakap/DDOS-WORLD">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="DDOS-WORLD"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=dark&hide_border=true&cache_seconds=21600" />
   </a>
   <a href="https://github.com/royaloakap/Crow-Bot">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Crow-Bot&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="Crow-Bot"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Crow-Bot&theme=dark&hide_border=true&cache_seconds=21600" />
   </a>
 </div>
 
@@ -124,16 +73,10 @@
 ### ⚙️ C / C++ Projects
 <div align="center">
   <a href="https://github.com/royaloakap/Payload-C">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Payload-C&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="Payload-C"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Payload-C&theme=dark&hide_border=true&cache_seconds=21600" />
   </a>
   <a href="https://github.com/royaloakap/ddos-world">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=ddos-world&theme=dark&hide_border=true&cache_seconds=21600"
-      alt="ddos-world"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=ddos-world&theme=dark&hide_border=true&cache_seconds=21600" />
   </a>
 </div>
 
@@ -141,18 +84,9 @@
 
 ## Technical Statistics
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=royaloakap&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=21600"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaloakap&layout=compact&theme=dark&hide_border=true&cache_seconds=21600"
-    alt="Top languages"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=royaloakap&theme=dark&hide_border=true"
-    alt="GitHub streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=royaloakap&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=21600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaloakap&layout=compact&theme=dark&hide_border=true&cache_seconds=21600" />
+  <img src="https://streak-stats.demolab.com?user=royaloakap&theme=dark&hide_border=true" />
 </div>
 
 ---
