@@ -32,6 +32,7 @@
 | [Payload-C](https://github.com/royaloakap/Payload-C) | Payload development in C# | C# | ⭐ 1 |
 | [Royal-Proxy](https://github.com/royaloakap/Royal-Proxy) | Proxy infrastructure tool | — | — |
 | [100-Days-Python](https://github.com/royaloakap/100-DAYS-OF-PYTHON) | 100 days Python learning path | Python | ⭐ 2 |
+| Roy Compressor | Multi-layer executable packing & binary hardening tool | C++ | 🔒 Private |
 
 </div>
 
@@ -49,7 +50,8 @@
 ## Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=royaloakap&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=royaloakap&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=royaloakap&theme=github_dark" />
 </div>
 
 ## Contribution Activity
