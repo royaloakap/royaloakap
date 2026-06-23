@@ -22,26 +22,7 @@
 
 ## Notable Projects
 
-<div align="center">
-  <a href="https://github.com/royaloakap/DDOS-WORLD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/royaloakap/Royal-SRC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-SRC&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/royaloakap/Py-OBF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Py-OBF&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/royaloakap/Payload-C">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Payload-C&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/royaloakap/Royal-Proxy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-Proxy&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/royaloakap/100-DAYS-OF-PYTHON">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=100-DAYS-OF-PYTHON&theme=github_dark&hide_border=true" />
-  </a>
-</div>
+<div align="center"><a href="https://github.com/royaloakap/DDOS-WORLD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=github_dark&hide_border=true" /></a><a href="https://github.com/royaloakap/Royal-SRC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-SRC&theme=github_dark&hide_border=true" /></a><a href="https://github.com/royaloakap/Py-OBF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Py-OBF&theme=github_dark&hide_border=true" /></a><a href="https://github.com/royaloakap/Payload-C"><img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Payload-C&theme=github_dark&hide_border=true" /></a><a href="https://github.com/royaloakap/Royal-Proxy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-Proxy&theme=github_dark&hide_border=true" /></a><a href="https://github.com/royaloakap/100-DAYS-OF-PYTHON"><img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=100-DAYS-OF-PYTHON&theme=github_dark&hide_border=true" /></a></div>
 
 ## Technical Statistics
 
