@@ -3,21 +3,36 @@
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Network+Security+Engineer;Full+Stack+Developer;Protocol+Architecture+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=Network+Security+Researcher;DDoS+Tool+Developer;C2+%26+Botnet+Architect;Control+the+protocol%2C+control+the+system." />
 </div>
 
-## Professional Overview
+## About
 
-### Core Competencies
-- Network Security & Protocol Architecture
-- Full Stack Development
-- Infrastructure Design
-- System Architecture
-- Educational Technology Development
+### Domains
+- DDoS Research & Tool Development (educational)
+- C2 / Botnet Architecture
+- Network Protocol Exploitation
+- Payload & Obfuscation Development
+- Proxy & SSH Infrastructure
 
 ### Technical Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,python,js,ruby,c,cpp,bash,mongodb,linux,ubuntu&theme=dark" />
+</div>
+
+## Notable Projects
+
+<div align="center">
+
+| Project | Description | Lang | Stars |
+|---|---|---|---|
+| [DDOS-WORLD](https://github.com/royaloakap/DDOS-WORLD) | Complete educational DDoS resource — methods, tools, explanations | JavaScript | ⭐ 38 |
+| [Royal-SRC](https://github.com/royaloakap/Royal-SRC) | CNC / C2 Botnet source — build your own command & control | HTML | ⭐ 1 |
+| [Py-OBF](https://github.com/royaloakap/Py-OBF) | Python code obfuscator | Python | ⭐ 1 |
+| [Payload-C](https://github.com/royaloakap/Payload-C) | Payload development in C# | C# | ⭐ 1 |
+| [Royal-Proxy](https://github.com/royaloakap/Royal-Proxy) | Proxy infrastructure tool | — | — |
+| [100-Days-Python](https://github.com/royaloakap/100-DAYS-OF-PYTHON) | 100 days Python learning path | Python | ⭐ 2 |
+
 </div>
 
 ## Technical Statistics
