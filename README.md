@@ -23,17 +23,24 @@
 ## Notable Projects
 
 <div align="center">
-
-| Project | Description | Lang | Stars |
-|---|---|---|---|
-| [DDOS-WORLD](https://github.com/royaloakap/DDOS-WORLD) | Complete educational DDoS resource — methods, tools, explanations | JavaScript | ⭐ 38 |
-| [Royal-SRC](https://github.com/royaloakap/Royal-SRC) | CNC / C2 Botnet source — build your own command & control | HTML | ⭐ 1 |
-| [Py-OBF](https://github.com/royaloakap/Py-OBF) | Python code obfuscator | Python | ⭐ 1 |
-| [Payload-C](https://github.com/royaloakap/Payload-C) | Payload development in C# | C# | ⭐ 1 |
-| [Royal-Proxy](https://github.com/royaloakap/Royal-Proxy) | Proxy infrastructure tool | — | — |
-| [100-Days-Python](https://github.com/royaloakap/100-DAYS-OF-PYTHON) | 100 days Python learning path | Python | ⭐ 2 |
-| Roy Compressor | Multi-layer executable packing & binary hardening tool | C++ | 🔒 Private |
-
+  <a href="https://github.com/royaloakap/DDOS-WORLD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=DDOS-WORLD&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/royaloakap/Royal-SRC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-SRC&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/royaloakap/Py-OBF">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Py-OBF&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/royaloakap/Payload-C">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Payload-C&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/royaloakap/Royal-Proxy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=Royal-Proxy&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/royaloakap/100-DAYS-OF-PYTHON">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaloakap&repo=100-DAYS-OF-PYTHON&theme=github_dark&hide_border=true" />
+  </a>
 </div>
 
 ## Technical Statistics
