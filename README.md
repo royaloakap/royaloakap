@@ -65,10 +65,10 @@
   <a href="https://royalprojets.com">
     <img src="https://img.shields.io/badge/Website-royalprojets.com-000000?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
-  <a href="https://t.me/royaloakap">
+  <a href="https://t.me/royaloakdc">
     <img src="https://img.shields.io/badge/Telegram-royaloakap-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/Gq6SVG4mp8">
+  <a href="https://discord.gg/NqFcpgGhdC">
     <img src="https://img.shields.io/badge/Discord-royalC2-000000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
